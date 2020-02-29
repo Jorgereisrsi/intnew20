@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExemploSoma
+public class inte
 {
   public static void main(String[]args)
   {
@@ -11,9 +11,9 @@ public class ExemploSoma
     Scanner sc = new Scanner(System.in);
 
     //recebe pelo teclado dois nÃºmeros inteiros
-    System.out.print("Entre com o primeiro nÃºmero inteiro: ");
+    System.out.print("Entre com o primeiro número inteiro: ");
     numero1 = sc.nextInt();
-    System.out.print("Entre com o segundo nÃºmero inteiro: ");
+    System.out.print("Entre com o segundo número inteiro: ");
     numero2 = sc.nextInt();
 
     soma = numero1 + numero2;
